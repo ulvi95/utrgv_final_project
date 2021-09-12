@@ -126,4 +126,3 @@ Average accuracy of Random Forest with 25 trees, no duplicates, and splitting cr
 Maximum accuracy of Random Forest with 25 trees, no duplicates, and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
 Minimum accuracy of Random Forest with 25 trees, no duplicates, and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
 Average accuracy of Random Forest with 25 trees, no duplicates, and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
-2021-09-12 12:49:51.387715

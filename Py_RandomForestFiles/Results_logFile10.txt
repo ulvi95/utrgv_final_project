@@ -1,0 +1,32 @@
+2021-09-11 18:39:54.737480
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_all.csv is: 0.464 with training data fraction 99%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_all.csv is: 0.38 with training data fraction 2%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_all.csv is: 0.44
+2021-09-11 19:11:09.024020
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.478 with training data fraction 99%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.386 with training data fraction 3%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.45
+2021-09-11 19:42:59.988826
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.555 with training data fraction 99%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.452 with training data fraction 1%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.53
+2021-09-11 20:00:56.375910
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only.csv is: 0.557 with training data fraction 99%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only.csv is: 0.451 with training data fraction 2%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only.csv is: 0.53
+2021-09-11 20:19:14.162670
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_all.csv is: 0.463 with training data fraction 91%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_all.csv is: 0.0 with training data fraction 1%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_all.csv is: 0.38
+2021-09-11 20:31:13.717031
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.407 with training data fraction 1%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.328 with training data fraction 91%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.36
+2021-09-11 20:45:24.746616
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.386 with training data fraction 1%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+2021-09-11 20:50:40.540866
+Maximum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
+Minimum accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of Random Forest with 10 trees, no duplicates, and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only.csv is: 0.53

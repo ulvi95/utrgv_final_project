@@ -1,0 +1,96 @@
+2021-09-10 00:11:44.035863
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_all.csv is: 0.541 with training data fraction 98%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_all.csv is: 0.395 with training data fraction 1%
+Average accuracy of Logistic Regression for names_only in surnames_labeled_all.csv is: 0.5
+2021-09-10 00:12:01.478634
+2021-09-10 00:12:04.098282
+2021-09-10 00:12:06.769819
+2021-09-10 00:12:08.914207
+2021-09-10 00:12:11.006938
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_all.csv is: 0.445 with training data fraction 99%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_all.csv is: 0.316 with training data fraction 16%
+Average accuracy of Logistic Regression for surnames_only in surnames_labeled_all.csv is: 0.37
+2021-09-10 00:12:13.310867
+2021-09-10 00:12:16.716894
+2021-09-10 00:12:19.009042
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only_2.csv is: 0.581 with training data fraction 99%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only_2.csv is: 0.483 with training data fraction 1%
+Average accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only_2.csv is: 0.55
+2021-09-10 00:12:22.989577
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 90%
+Average accuracy of Logistic Regression for surnames_only in surnames_labeled_all_2.csv is: 0.39
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+2021-09-10 00:12:25.253546
+2021-09-10 00:12:27.410861
+2021-09-10 00:12:30.010420
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_all_2.csv is: 0.542 with training data fraction 99%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_all_2.csv is: 0.396 with training data fraction 1%
+Average accuracy of Logistic Regression for names_only in surnames_labeled_all_2.csv is: 0.5
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 5%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only.csv is: 0.583 with training data fraction 99%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only.csv is: 0.468 with training data fraction 1%
+Average accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only.csv is: 0.55
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only.csv is: 0.52 with training data fraction 92%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only.csv is: 0.512 with training data fraction 98%
+Average accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only.csv is: 0.52
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.531 with training data fraction 55%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.515 with training data fraction 2%
+Average accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.53
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all.csv is: 0.44 with training data fraction 2%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all.csv is: 0.431 with training data fraction 80%
+Average accuracy of Logistic Regression for surname_and_name in surnames_labeled_all.csv is: 0.43
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all_2.csv is: 0.458 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all_2.csv is: 0.45 with training data fraction 84%
+Average accuracy of Logistic Regression for surname_and_name in surnames_labeled_all_2.csv is: 0.45
+2021-09-10 00:20:59.916742
+2021-09-10 00:21:01.410700
+2021-09-10 00:21:02.622656
+2021-09-10 00:21:03.604656
+2021-09-10 00:21:05.203567
+2021-09-10 00:21:51.414663
+2021-09-10 00:21:53.168982
+2021-09-10 00:21:54.687414
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only_2.csv is: 0.519 with training data fraction 98%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only_2.csv is: 0.514 with training data fraction 96%
+Average Logistic Regression accuracy for names_only in surnames_labeled_M_F_only_2.csv is: 0.52
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.519 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.514 with training data fraction 96%
+Average Logistic Regression accuracy for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.52
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.519 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.514 with training data fraction 96%
+Average Logistic Regression accuracy for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.52
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_all.csv is: 0.485 with training data fraction 98%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_all.csv is: 0.477 with training data fraction 83%
+Average Logistic Regression accuracy for names_only in surnames_labeled_all.csv is: 0.48
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_all.csv is: 0.487 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_all.csv is: 0.479 with training data fraction 87%
+Average Logistic Regression accuracy for surnames_only in surnames_labeled_all.csv is: 0.48
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_all_2.csv is: 0.493 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_all_2.csv is: 0.486 with training data fraction 92%
+Average Logistic Regression accuracy for surnames_only in surnames_labeled_all_2.csv is: 0.49
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_all_2.csv is: 0.494 with training data fraction 98%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_all_2.csv is: 0.487 with training data fraction 77%
+Average Logistic Regression accuracy for names_only in surnames_labeled_all_2.csv is: 0.49
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all.csv is: 0.487 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all.csv is: 0.479 with training data fraction 87%
+Average Logistic Regression accuracy for surname_and_name in surnames_labeled_all.csv is: 0.48
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all_2.csv is: 0.493 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_all_2.csv is: 0.486 with training data fraction 92%
+Average Logistic Regression accuracy for surname_and_name in surnames_labeled_all_2.csv is: 0.49
+2021-09-10 00:59:20.573219
+2021-09-10 00:59:21.427561
+2021-09-10 00:59:23.042072
+Maximum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only.csv is: 0.515 with training data fraction 98%
+Minimum accuracy of Logistic Regression for names_only in surnames_labeled_M_F_only.csv is: 0.51 with training data fraction 92%
+Average Logistic Regression accuracy for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only.csv is: 0.516 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surnames_only in surnames_labeled_M_F_only.csv is: 0.511 with training data fraction 87%
+Average Logistic Regression accuracy for surnames_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only.csv is: 0.516 with training data fraction 98%
+Minimum accuracy of Logistic Regression for surname_and_name in surnames_labeled_M_F_only.csv is: 0.511 with training data fraction 95%
+Average Logistic Regression accuracy for surname_and_name in surnames_labeled_M_F_only.csv is: 0.51

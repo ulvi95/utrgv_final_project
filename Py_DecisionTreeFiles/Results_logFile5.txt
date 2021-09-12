@@ -1,0 +1,200 @@
+2021-08-25 19:07:47.709706
+2021-08-25 19:17:04.201873
+2021-08-25 19:17:07.483644
+2021-08-25 19:17:09.207489
+2021-08-25 19:17:10.760258
+2021-08-25 19:17:12.874778
+2021-08-25 19:17:14.904717
+2021-08-25 19:17:15.860264
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for names_only in surnames_labeled_M_F_only.csv is: 0.553 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_M_F_only.csv is: 0.451 with training data fraction 2%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for names_only in surnames_labeled_M_F_only_2.csv is: 0.556 with training data fraction 2%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_M_F_only_2.csv is: 0.434 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_M_F_only_2.csv is: 0.52
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for names_only in surnames_labeled_all_2.csv is: 0.486 with training data fraction 2%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_all_2.csv is: 0.38 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_all_2.csv is: 0.45
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for names_only in surnames_labeled_all.csv is: 0.462 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_all.csv is: 0.382 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_all.csv is: 0.44
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only.csv is: 0.553 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only.csv is: 0.451 with training data fraction 2%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.556 with training data fraction 2%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.434 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.52
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for names_only in surnames_labeled_all.csv is: 0.462 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_all.csv is: 0.382 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_all.csv is: 0.44
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.486 with training data fraction 2%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.38 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.45
+2021-08-26 13:07:27.769769
+2021-08-26 13:07:28.975382
+2021-08-26 13:07:30.524245
+2021-08-26 13:07:32.010981
+2021-08-26 13:07:33.535464
+2021-08-26 13:07:35.538029
+2021-08-26 13:07:38.110895
+2021-08-26 13:08:16.264513
+2021-08-26 13:13:04.665134
+2021-08-26 13:13:05.845706
+2021-08-26 13:13:07.330708
+2021-08-26 13:13:08.856363
+2021-08-26 13:13:10.337824
+2021-08-26 13:13:11.883936
+2021-08-26 13:13:13.650815
+2021-08-26 13:13:15.563318
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.576 with training data fraction 5%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.529 with training data fraction 98%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.576 with training data fraction 5%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.529 with training data fraction 98%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 1%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_all_2.csv is: 0.321 with training data fraction 99%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surnames_only in surnames_labeled_all.csv is: 0.463 with training data fraction 91%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_all.csv is: 0.301 with training data fraction 44%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_all.csv is: 0.38
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 1%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.321 with training data fraction 99%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surnames_only in surnames_labeled_all.csv is: 0.463 with training data fraction 91%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_all.csv is: 0.301 with training data fraction 44%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_all.csv is: 0.38
+2021-08-26 16:30:45.996893
+2021-08-26 16:30:47.006466
+2021-08-26 16:30:50.537783
+2021-08-26 16:30:51.836142
+2021-08-26 16:30:53.491939
+2021-08-26 16:30:55.174675
+2021-08-26 16:30:57.683686
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.991 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.849 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.98
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.976 with training data fraction 98%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.84 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.96
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.991 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.851 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.98
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surname_and_name in surnames_labeled_all_2.csv is: 0.911 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_all_2.csv is: 0.784 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_all_2.csv is: 0.89
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surname_and_name in surnames_labeled_all.csv is: 0.891 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_all.csv is: 0.761 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_all.csv is: 0.87
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.969 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.841 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.96
+2021-08-27 15:09:08.364078
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surname_and_name in surnames_labeled_all.csv is: 0.929 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_all.csv is: 0.767 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_all.csv is: 0.9
+2021-08-27 17:27:21.682176
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surname_and_name in surnames_labeled_all_2.csv is: 0.92 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_all_2.csv is: 0.783 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_all_2.csv is: 0.9
+2021-09-07 23:20:47.068438
+2021-09-07 23:20:47.998754
+2021-09-07 23:20:50.258240
+2021-09-07 23:20:52.285311
+2021-09-07 23:20:54.634778
+2021-09-07 23:20:57.378260
+2021-09-07 23:21:00.439567
+2021-09-07 23:21:04.967932
+2021-09-07 23:21:06.395012
+2021-09-07 23:21:07.893065
+2021-09-07 23:21:09.538534
+2021-09-07 23:21:11.348564
+2021-09-07 23:21:13.498537
+2021-09-07 23:21:16.420387
+2021-09-07 23:21:19.809297
+2021-09-07 23:21:25.413535
+2021-09-07 23:21:30.321107
+2021-09-07 23:21:37.213145
+2021-09-07 23:21:43.791183
+2021-09-07 23:22:08.138440
+2021-09-07 23:22:17.033174
+2021-09-07 23:22:20.251218
+2021-09-07 23:22:21.264214
+2021-09-07 23:22:22.574214
+2021-09-07 23:22:25.418213
+2021-09-07 23:22:28.353151
+2021-09-07 23:22:29.832151
+2021-09-08 15:38:38.201422
+2021-09-08 15:39:00.464554
+2021-09-08 15:39:02.998906
+2021-09-08 15:39:04.676046
+2021-09-08 15:39:06.830489
+2021-09-08 15:39:08.568638
+2021-09-08 15:39:10.257302
+2021-09-08 15:39:11.817534
+2021-09-08 15:39:32.776478
+2021-09-08 15:39:34.986119
+2021-09-08 15:39:37.713967
+2021-09-08 15:39:39.723648
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of Decision tree with and splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.999 with training data fraction 87%
+Minimum accuracy of Decision tree with splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.982 with training data fraction 1%
+Average accuracy of Decision tree with splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only.csv is: 1.0
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surnames_only in surnames_labeled_all_2.csv is: 0.407 with training data fraction 1%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_all_2.csv is: 0.322 with training data fraction 91%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for names_only in surnames_labeled_M_F_only_2.csv is: 0.552 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_M_F_only_2.csv is: 0.452 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_M_F_only_2.csv is: 0.53
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.407 with training data fraction 1%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.322 with training data fraction 91%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.991 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.857 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.98
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.552 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.452 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_M_F_only_2.csv is: 0.53
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for names_only in surnames_labeled_all_2.csv is: 0.475 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_all_2.csv is: 0.39 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for names_only in surnames_labeled_all_2.csv is: 0.45
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.475 with training data fraction 99%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.39 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for names_only in surnames_labeled_all_2.csv is: 0.45
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'entropy' for surname_and_name in surnames_labeled_all_2.csv is: 0.897 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_all_2.csv is: 0.771 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'entropy' for surname_and_name in surnames_labeled_all_2.csv is: 0.88
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.989 with training data fraction 75%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.854 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.98
+Maximum accuracy of Decision tree with and splitting criterion 'entropy' for surname_and_name in surnames_labeled_all.csv is: 0.981 with training data fraction 96%
+Minimum accuracy of Decision tree with splitting criterion 'entropy' for surname_and_name in surnames_labeled_all.csv is: 0.946 with training data fraction 1%
+Average accuracy of Decision tree with splitting criterion 'entropy' for surname_and_name in surnames_labeled_all.csv is: 0.97
+Maximum accuracy of Decision tree with and splitting criterion 'gini' for surname_and_name in surnames_labeled_all.csv is: 0.985 with training data fraction 80%
+Minimum accuracy of Decision tree with splitting criterion 'gini' for surname_and_name in surnames_labeled_all.csv is: 0.95 with training data fraction 1%
+Average accuracy of Decision tree with splitting criterion 'gini' for surname_and_name in surnames_labeled_all.csv is: 0.98
+Maximum accuracy of Decision tree with and splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.999 with training data fraction 95%
+Minimum accuracy of Decision tree with splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only.csv is: 0.981 with training data fraction 1%
+Average accuracy of Decision tree with splitting criterion 'gini' for surname_and_name in surnames_labeled_M_F_only.csv is: 1.0
+Maximum accuracy of Decision tree with no duplicates and splitting criterion 'gini' for surname_and_name in surnames_labeled_all_2.csv is: 0.938 with training data fraction 97%
+Minimum accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_all_2.csv is: 0.771 with training data fraction 1%
+Average accuracy of Decision tree with no duplicates splitting criterion 'gini' for surname_and_name in surnames_labeled_all_2.csv is: 0.91
+2021-09-10 11:49:33.125184
+2021-09-10 11:49:33.735607
+2021-09-10 11:49:36.104597
+2021-09-10 11:49:37.090368
+2021-09-10 11:49:38.647361
+2021-09-10 11:49:39.601864
+2021-09-10 11:49:42.511152
+2021-09-10 11:49:43.780444

@@ -1,0 +1,480 @@
+2021-09-10 15:27:39.035231
+2021-09-10 15:28:46.438639
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_all.csv is: 0.468 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_all.csv is: 0.403 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_all.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_all.csv is: 0.42 with training data fraction 96%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_all.csv is: 0.391 with training data fraction 86%
+Average accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_all.csv is: 0.4
+2021-09-10 15:30:41.125706
+2021-09-10 15:30:43.040679
+2021-09-10 15:30:44.611222
+2021-09-10 15:30:45.861315
+2021-09-10 15:30:49.370941
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.348 with training data fraction 4%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.313 with training data fraction 83%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.33
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_all_2.csv is: 0.453 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_all_2.csv is: 0.417 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_all.csv is: 0.354 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_all.csv is: 0.305 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_all.csv is: 0.33
+2021-09-10 15:40:24.842971
+2021-09-10 15:40:27.117321
+2021-09-10 15:40:28.394130
+2021-09-10 15:40:29.090904
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.511 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.469 with training data fraction 86%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.48
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.492 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.467 with training data fraction 96%
+Average accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.48
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.492 with training data fraction 2%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.462 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.48
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.486 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.434 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.46
+2021-09-10 15:43:28.257488
+2021-09-10 15:43:29.531128
+2021-09-10 15:43:39.539563
+2021-09-10 15:43:41.298939
+2021-09-10 15:43:43.021927
+2021-09-10 15:43:44.506547
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.512 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.484 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.506 with training data fraction 54%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.484 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.527 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.527 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_all.csv is: 0.466 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_all.csv is: 0.409 with training data fraction 13%
+Average accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_all.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_all_2.csv is: 0.473 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_all_2.csv is: 0.416 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 5 neighbors for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.439 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.398 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.428 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.389 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.41
+2021-09-10 16:30:00.878491
+2021-09-10 16:30:01.775464
+2021-09-10 16:30:02.704424
+2021-09-10 16:30:07.487278
+2021-09-10 16:30:09.485255
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.527 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.481 with training data fraction 91%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.55 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.493 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.552 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.508 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.54
+2021-09-10 16:33:16.262129
+2021-09-10 16:33:18.815080
+2021-09-10 16:33:20.572108
+2021-09-10 16:33:22.333523
+2021-09-10 16:34:21.744919
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.496 with training data fraction 2%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.474 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.509 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.478 with training data fraction 90%
+Average accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.514 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.454 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.523 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+2021-09-10 16:37:10.253990
+2021-09-10 16:37:19.703632
+2021-09-10 16:37:23.942487
+2021-09-10 16:37:25.858941
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.527 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.481 with training data fraction 91%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.37 with training data fraction 94%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.33 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.552 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.508 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.54
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all.csv is: 0.363 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all.csv is: 0.308 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all.csv is: 0.33
+2021-09-10 16:41:14.243765
+2021-09-10 16:41:15.383758
+2021-09-10 16:41:17.829143
+2021-09-10 16:41:18.426285
+2021-09-10 16:41:43.358986
+2021-09-10 16:42:00.501223
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.506 with training data fraction 54%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.484 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 8 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.541 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.499 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.52
+2021-09-10 16:44:24.662173
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_all.csv is: 0.5 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_all.csv is: 0.41 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_all.csv is: 0.46
+2021-09-10 16:46:44.560684
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_all.csv is: 0.363 with training data fraction 85%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_all.csv is: 0.312 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_all.csv is: 0.34
+2021-09-10 16:52:12.434903
+2021-09-10 16:52:16.965407
+2021-09-10 16:52:19.284219
+2021-09-10 16:52:21.978811
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.37 with training data fraction 94%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.33 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.527 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.481 with training data fraction 91%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.552 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.508 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.54
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all.csv is: 0.363 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all.csv is: 0.308 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surnames_only in surnames_labeled_all.csv is: 0.33
+2021-09-10 16:55:28.628999
+2021-09-10 16:55:30.316677
+2021-09-10 16:55:32.172104
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.315 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.288 with training data fraction 92%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.3
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_all_2.csv is: 0.421 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_all_2.csv is: 0.402 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 2 neighbors for names_only in surnames_labeled_all_2.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.516 with training data fraction 49%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.489 with training data fraction 8%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+2021-09-10 16:57:53.031197
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_all.csv is: 0.321 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_all.csv is: 0.294 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surnames_only in surnames_labeled_all.csv is: 0.31
+2021-09-10 16:58:55.757615
+2021-09-10 16:59:17.866811
+2021-09-10 16:59:25.891693
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.533 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.494 with training data fraction 92%
+Average accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_all.csv is: 0.433 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_all.csv is: 0.396 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_all_2.csv is: 0.467 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_all_2.csv is: 0.413 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 3 neighbors for names_only in surnames_labeled_all_2.csv is: 0.42
+2021-09-10 17:02:22.857143
+2021-09-10 17:02:25.708508
+2021-09-10 17:02:37.332841
+2021-09-10 17:02:41.078700
+2021-09-10 17:02:48.727186
+2021-09-10 17:02:58.665127
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.389 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.348 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.37
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_all_2.csv is: 0.457 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_all_2.csv is: 0.419 with training data fraction 35%
+Average accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.508 with training data fraction 54%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.488 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.521 with training data fraction 94%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.476 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.534 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.488 with training data fraction 92%
+Average accuracy of K Nearest Neighbours with 10 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.553 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.509 with training data fraction 4%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.53
+2021-09-10 17:05:11.852524
+2021-09-10 17:05:17.964815
+2021-09-10 17:05:21.326877
+2021-09-10 17:05:29.744153
+2021-09-10 17:05:43.842788
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.333 with training data fraction 13%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.307 with training data fraction 77%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.32
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_all.csv is: 0.454 with training data fraction 44%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_all.csv is: 0.394 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_all_2.csv is: 0.452 with training data fraction 43%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 90%
+Average accuracy of K Nearest Neighbours with 4 neighbors for names_only in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.522 with training data fraction 96%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.474 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_all.csv is: 0.352 with training data fraction 84%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_all.csv is: 0.31 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surnames_only in surnames_labeled_all.csv is: 0.33
+2021-09-10 17:08:16.772893
+2021-09-10 17:08:17.676784
+2021-09-10 17:08:18.443366
+2021-09-10 17:08:27.972342
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.37 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.327 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.527 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.491 with training data fraction 96%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.565 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.527 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.55
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_all.csv is: 0.343 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_all.csv is: 0.307 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surnames_only in surnames_labeled_all.csv is: 0.33
+2021-09-10 18:51:16.957895
+2021-09-10 18:51:17.897905
+2021-09-10 18:51:22.320458
+2021-09-10 18:51:23.343649
+2021-09-10 18:51:25.065607
+2021-09-10 18:51:25.834526
+2021-09-10 18:51:26.801136
+2021-09-10 18:51:27.691256
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.384 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.334 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.545 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.498 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.523 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.535 with training data fraction 93%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.492 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_all_2.csv is: 0.464 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_all_2.csv is: 0.423 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_all.csv is: 0.471 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_all.csv is: 0.405 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 9 neighbors for names_only in surnames_labeled_all.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.574 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.534 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.56
+2021-09-10 18:53:26.652151
+2021-09-10 18:53:30.874485
+2021-09-10 18:53:31.808480
+2021-09-10 18:53:32.794012
+2021-09-10 18:53:33.854653
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all.csv is: 0.362 with training data fraction 85%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all.csv is: 0.31 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all.csv is: 0.34
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all.csv is: 0.362 with training data fraction 85%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all.csv is: 0.31 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surnames_only in surnames_labeled_all.csv is: 0.34
+2021-09-10 18:58:12.019154
+2021-09-10 18:58:13.245360
+2021-09-10 18:58:15.161275
+2021-09-10 18:58:17.185344
+2021-09-10 18:58:19.189189
+2021-09-10 18:58:20.466516
+2021-09-10 18:58:24.858760
+2021-09-10 18:58:25.947464
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.387 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.347 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.525 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.483 with training data fraction 86%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.524 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.546 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.496 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_all.csv is: 0.466 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_all.csv is: 0.406 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_all.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_all_2.csv is: 0.483 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_all_2.csv is: 0.42 with training data fraction 15%
+Average accuracy of K Nearest Neighbours with 7 neighbors for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.571 with training data fraction 75%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.538 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.56
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_all.csv is: 0.359 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_all.csv is: 0.313 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surnames_only in surnames_labeled_all.csv is: 0.34
+2021-09-10 19:02:53.767060
+2021-09-10 19:02:56.138720
+2021-09-10 19:02:59.305124
+2021-09-10 19:03:01.391041
+2021-09-10 19:03:03.799800
+2021-09-10 19:03:06.097100
+2021-09-10 19:03:09.041836
+2021-09-10 19:03:12.264274
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.336 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.284 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_all_2.csv is: 0.32
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.525 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.482 with training data fraction 79%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.505 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.485 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.508 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.485 with training data fraction 71%
+Average accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_all.csv is: 0.467 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_all.csv is: 0.404 with training data fraction 13%
+Average accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_all_2.csv is: 0.464 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_all_2.csv is: 0.416 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 6 neighbors for names_only in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.539 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.487 with training data fraction 4%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_all.csv is: 0.357 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_all.csv is: 0.307 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surnames_only in surnames_labeled_all.csv is: 0.34
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.519 with training data fraction 22%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.49 with training data fraction 44%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.521 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.487 with training data fraction 54%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.429 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.391 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.442 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.401 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 9 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+2021-09-10 19:38:38.735080
+2021-09-10 19:38:43.545259
+2021-09-10 19:38:44.837723
+2021-09-10 19:38:46.272463
+2021-09-10 19:38:47.659742
+2021-09-10 19:39:12.487735
+2021-09-10 19:39:13.798922
+2021-09-10 19:39:15.755175
+2021-09-10 19:39:20.039695
+2021-09-10 19:49:02.843492
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.532 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.477 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+2021-09-10 19:52:23.810136
+2021-09-10 19:52:27.404787
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.507 with training data fraction 21%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.484 with training data fraction 11%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.506 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.474 with training data fraction 55%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.516 with training data fraction 22%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.488 with training data fraction 44%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.516 with training data fraction 22%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.484 with training data fraction 54%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.434 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.392 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.422 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.384 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 2 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.4
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.439 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.4 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.428 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.39 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 10 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.41
+2021-09-10 20:13:29.888655
+2021-09-10 20:13:30.816819
+2021-09-10 20:13:31.573389
+2021-09-10 20:13:32.540924
+2021-09-10 20:13:47.780177
+2021-09-10 20:13:48.759691
+2021-09-10 20:13:49.755542
+2021-09-10 20:13:50.513933
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.515 with training data fraction 49%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.488 with training data fraction 44%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.515 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.482 with training data fraction 54%
+Average accuracy of K Nearest Neighbours with 8 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.511 with training data fraction 36%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.486 with training data fraction 43%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.517 with training data fraction 49%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.49 with training data fraction 8%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.52 with training data fraction 22%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.486 with training data fraction 54%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.511 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.478 with training data fraction 54%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.49
+2021-09-10 20:36:53.339129
+2021-09-10 20:36:56.742991
+2021-09-10 20:36:58.161962
+2021-09-10 20:37:39.901113
+2021-09-10 20:37:43.172155
+2021-09-10 20:37:45.810136
+2021-09-10 20:37:48.295781
+2021-09-10 20:37:56.710667
+2021-09-10 20:37:59.063912
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.422 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.384 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.4
+2021-09-10 20:38:02.137168
+2021-09-10 20:38:05.184325
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.438 with training data fraction 8%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.397 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.425 with training data fraction 9%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.388 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 5 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.434 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.392 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 4 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.519 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.483 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.513 with training data fraction 49%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.487 with training data fraction 44%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.517 with training data fraction 22%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.49 with training data fraction 44%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.513 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.48 with training data fraction 54%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.521 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.486 with training data fraction 55%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.425 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.384 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.4
+Maximum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.438 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.393 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 3 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.436 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.396 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.425 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.387 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 6 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.441 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.398 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.427 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.389 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 7 neighbors for surname_and_name in surnames_labeled_all.csv is: 0.41
+2021-09-10 21:33:51.793090
+2021-09-10 21:33:55.349945
+2021-09-10 21:33:58.119598
+2021-09-10 21:34:01.532250

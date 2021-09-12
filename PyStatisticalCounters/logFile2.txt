@@ -1,0 +1,5 @@
+2021-08-21 11:37:59.377226
+"file_with_names.csv" exists.
+57209 surname entries with statistics were written successfully
+72554 name entries with statistics were written successfully
+75407 patronymic entries with statistics were written successfully

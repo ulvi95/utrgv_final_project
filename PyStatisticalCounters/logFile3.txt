@@ -1,0 +1,4 @@
+2021-08-21 11:39:26.829533
+"file_with_names.csv" exists.
+The average age of a voter is equal to 44.75
+The median age of people is 43

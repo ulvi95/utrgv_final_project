@@ -1,0 +1,8 @@
+2021-08-21 16:26:38.615908
+"file_with_names.csv" exists.
+5179958 "M" and "F" surname entries were written successfully
+5387803 surname entries with genders were written successfully
+2021-09-08 15:00:27.763273
+"file_with_names.csv" exists.
+5098896 "M" and "F" surname entries were written successfully
+5387803 surname entries with genders were written successfully

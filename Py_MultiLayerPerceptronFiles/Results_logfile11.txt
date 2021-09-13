@@ -1,1 +1,42 @@
-2021-09-12 22:34:59.217240
+2021-09-13 01:45:51.165814
+Maximum accuracy of Multi-Layer Perceptron with three layers for names_only in surnames_labeled_all.csv is: 0.548 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with three layers for names_only in surnames_labeled_all.csv is: 0.393 with training data fraction 1%
+Average accuracy of Multi-Layer Perceptron with three layers for names_only in surnames_labeled_all.csv is: 0.51
+2021-09-13 03:08:04.520495
+Maximum accuracy of Multi-Layer Perceptron with three layers for names_only in surnames_labeled_all_2.csv is: 0.546 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with three layers for names_only in surnames_labeled_all_2.csv is: 0.393 with training data fraction 1%
+Average accuracy of Multi-Layer Perceptron with three layers for names_only in surnames_labeled_all_2.csv is: 0.51
+2021-09-13 04:28:28.229991
+2021-09-13 04:28:36.541444
+2021-09-13 04:28:44.768155
+2021-09-13 04:28:48.772178
+2021-09-13 04:28:52.767284
+2021-09-13 04:28:56.643185
+2021-09-13 04:29:00.470703
+Maximum accuracy of Multi-Layer Perceptron with two layers for names_only in surnames_labeled_all.csv is: 0.548 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with two layers for names_only in surnames_labeled_all.csv is: 0.391 with training data fraction 1%
+Average accuracy of Multi-Layer Perceptron with two layers for names_only in surnames_labeled_all.csv is: 0.51
+2021-09-13 05:39:01.326158
+Maximum accuracy of Multi-Layer Perceptron with two layers for names_only in surnames_labeled_all_2.csv is: 0.547 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with two layers for names_only in surnames_labeled_all_2.csv is: 0.392 with training data fraction 5%
+Average accuracy of Multi-Layer Perceptron with two layers for names_only in surnames_labeled_all_2.csv is: 0.51
+2021-09-13 06:48:47.972013
+2021-09-13 06:48:55.893698
+2021-09-13 06:49:03.823180
+2021-09-13 06:49:07.835370
+2021-09-13 06:49:11.823152
+2021-09-13 06:49:15.689269
+2021-09-13 06:49:19.513861
+Maximum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_all.csv is: 0.548 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_all.csv is: 0.405 with training data fraction 1%
+Average accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_all.csv is: 0.5
+2021-09-13 07:49:24.965296
+Maximum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_all_2.csv is: 0.547 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_all_2.csv is: 0.414 with training data fraction 4%
+Average accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_all_2.csv is: 0.5
+2021-09-13 08:48:50.211434
+2021-09-13 08:48:57.985779
+2021-09-13 08:49:05.699543
+2021-09-13 08:49:09.735147
+2021-09-13 08:49:13.785106
+2021-09-13 08:49:17.649633

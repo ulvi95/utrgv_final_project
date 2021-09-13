@@ -79,7 +79,7 @@ if __name__ == "__main__":
     accuracy_score = []
 
     for test_percent in range(99, 0, -1):
-        x_train, x_test, y_train, y_test = train_test_split(names_only, genders, test_size=(test_percent/100), shuffle=False)
+        x_train, x_test, y_train, y_test = train_test_split(surnames_only, genders, test_size=(test_percent/100), shuffle=False)
         x_train = preprocessing.scale(x_train)
         x_test = preprocessing.scale(x_test)
         classifier_Multi_Layer_Perceptron = Sequential()
@@ -90,7 +90,7 @@ if __name__ == "__main__":
         classifier_Multi_Layer_Perceptron.fit(x_train, y_train, epochs=150, batch_size=200, verbose=0)
         y_pred_Multi_Layer_Perceptron_TwoLayer = np.argmax(classifier_Multi_Layer_Perceptron.predict(x_test), axis=-1)
         Multi_Layer_Perceptron_TwoLayer_accuracy_score = round(metrics.accuracy_score(y_test, y_pred_Multi_Layer_Perceptron_TwoLayer), 3)
-        text = "Accuracy of Multi-Layer Perceptron with two layers for " + str(get_variable_name(names_only, locals())[0]) + " with training data fraction " + str(100-test_percent) + "% in " + str(csv_with_all_surnames.split(os.sep)[-1]) + " is: " + str(Multi_Layer_Perceptron_TwoLayer_accuracy_score)
+        text = "Accuracy of Multi-Layer Perceptron with two layers for " + str(get_variable_name(surnames_only, locals())[0]) + " with training data fraction " + str(100-test_percent) + "% in " + str(csv_with_all_surnames.split(os.sep)[-1]) + " is: " + str(Multi_Layer_Perceptron_TwoLayer_accuracy_score)
         print(text)
         file_results_log = open("logfile11.txt","a+")
         file_results_log.write(text + "\n")

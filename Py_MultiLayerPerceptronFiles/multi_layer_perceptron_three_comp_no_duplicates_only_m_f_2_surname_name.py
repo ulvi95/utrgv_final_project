@@ -93,13 +93,13 @@ if __name__ == "__main__":
         classifier_Multi_Layer_Perceptron.fit(x_train, y_train, epochs=150, batch_size=200, verbose=0)
         y_pred_Multi_Layer_Perceptron_ThreeLayer = np.argmax(classifier_Multi_Layer_Perceptron.predict(x_test), axis=-1)
         Multi_Layer_Perceptron_ThreeLayer_accuracy_score = round(metrics.accuracy_score(y_test, y_pred_Multi_Layer_Perceptron_ThreeLayer), 3)
-        text = "Accuracy of Multi-Layer Perceptron with one layers for " + str(get_variable_name(names_only, locals())[0]) + " with training data fraction " + str(100-test_percent) + "% in " + str(csv_with_all_surnames.split(os.sep)[-1]) + " is: " + str(Multi_Layer_Perceptron_ThreeLayer_accuracy_score)
+        text = "Accuracy of Multi-Layer Perceptron with three layers for " + str(get_variable_name(names_only, locals())[0]) + " with training data fraction " + str(100-test_percent) + "% in " + str(csv_with_all_surnames.split(os.sep)[-1]) + " is: " + str(Multi_Layer_Perceptron_ThreeLayer_accuracy_score)
         print(text)
         file_results_log = open("logfile11.txt","a+")
         file_results_log.write(text + "\n")
         file_results_log.close()
         accuracy_score.append(Multi_Layer_Perceptron_ThreeLayer_accuracy_score)
-    accuracy_score_max = "Maximum accuracy of Multi-Layer Perceptron with one layers for " + str(get_variable_name(surname_and_name, locals())[0]) + " in " + str(csv_with_M_F_surnames.split(os.sep)[-1]) + " is: " + str(max(accuracy_score)) + " with training data fraction " + str(accuracy_score.index(max(accuracy_score))+1) + "%"
+    accuracy_score_max = "Maximum accuracy of Multi-Layer Perceptron with three layers for " + str(get_variable_name(surname_and_name, locals())[0]) + " in " + str(csv_with_M_F_surnames.split(os.sep)[-1]) + " is: " + str(max(accuracy_score)) + " with training data fraction " + str(accuracy_score.index(max(accuracy_score))+1) + "%"
     print(accuracy_score_max)
     file_results_log = open("logfile11.txt","a+")
     file_results_log.write(accuracy_score_max + "\n")
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     file_results_log2 = open("Results_logfile11.txt","a+")
     file_results_log2.write(accuracy_score_max + "\n")
     file_results_log2.close()
-    accuracy_score_min = "Minimum accuracy of Multi-Layer Perceptron with one layers for " + str(get_variable_name(surname_and_name, locals())[0]) + " in " + str(csv_with_M_F_surnames.split(os.sep)[-1]) + " is: " + str(min(accuracy_score)) + " with training data fraction " + str(accuracy_score.index(min(accuracy_score))+1) + "%"
+    accuracy_score_min = "Minimum accuracy of Multi-Layer Perceptron with three layers for " + str(get_variable_name(surname_and_name, locals())[0]) + " in " + str(csv_with_M_F_surnames.split(os.sep)[-1]) + " is: " + str(min(accuracy_score)) + " with training data fraction " + str(accuracy_score.index(min(accuracy_score))+1) + "%"
     print(accuracy_score_min)
     file_results_log = open("logfile11.txt","a+")
     file_results_log.write(accuracy_score_min + "\n")
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     file_results_log2 = open("Results_logfile11.txt","a+")
     file_results_log2.write(accuracy_score_min + "\n")
     file_results_log2.close()
-    accuracy_score_average = "Average accuracy of Multi-Layer Perceptron with one layers for " + str(get_variable_name(surname_and_name, locals())[0]) + " in " + str(csv_with_M_F_surnames.split(os.sep)[-1]) + " is: " + str(round((sum(accuracy_score) / len(accuracy_score)),2))
+    accuracy_score_average = "Average accuracy of Multi-Layer Perceptron with three layers for " + str(get_variable_name(surname_and_name, locals())[0]) + " in " + str(csv_with_M_F_surnames.split(os.sep)[-1]) + " is: " + str(round((sum(accuracy_score) / len(accuracy_score)),2))
     print(accuracy_score_average)
     file_results_log = open("logfile11.txt","a+")
     file_results_log.write(accuracy_score_average + "\n")

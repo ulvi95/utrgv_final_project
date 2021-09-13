@@ -23,3 +23,5 @@ Required packages for the project and their installation by Pip:
 4) **matplotlib.pyplot (pip install matplotlib)**
 5) **numpy (pip install numpy)**
 6) **pandas (pip install pandas)**
+7) **keras (pip install keras)**
+8) **Tensorflow (pip install tensorflow)**

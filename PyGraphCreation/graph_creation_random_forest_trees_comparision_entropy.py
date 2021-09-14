@@ -249,15 +249,15 @@ if __name__ == "__main__":
         if len(name_results) !=0:
             for rs in range(len(name_results)):
                 ax.scatter(name_results[rs][2], name_results[rs][0], color='r', label='Names only', s=30)
-                ax.text(name_results[rs][2]+0.005, name_results[rs][0]+0.005, str(name_results[rs][1]), size=12)
+                ax.text(name_results[rs][2]+0.005, name_results[rs][0]+0.005, str(name_results[rs][1]), size=12, color='r')
         if len(surname_results) !=0:
             for rs in range(len(surname_results)):
                 ax.scatter(surname_results[rs][2], surname_results[rs][0], color='g', label='Surnames only', s=30)
-                ax.text(surname_results[rs][2]-0.005, surname_results[rs][0]-0.015, str(surname_results[rs][1]), size=12)
+                ax.text(surname_results[rs][2]-0.005, surname_results[rs][0]-0.015, str(surname_results[rs][1]), size=12, color='g')
         if len(surname_name_results) !=0:
             for rs in range(len(surname_name_results)):
                 ax.scatter(surname_name_results[rs][2], surname_name_results[rs][0], color='b', label='Names and Surnames', s=30)
-                ax.text(surname_name_results[rs][2]+0.005, surname_name_results[rs][0]+0.005, str(surname_name_results[rs][1]), size=12)
+                ax.text(surname_name_results[rs][2]+0.005, surname_name_results[rs][0]+0.005, str(surname_name_results[rs][1]), size=12, color='b')
         
         handles, labels = matplotlib.pyplot.gca().get_legend_handles_labels()
         by_label = dict(zip(labels, handles))

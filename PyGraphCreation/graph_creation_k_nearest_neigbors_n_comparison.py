@@ -238,24 +238,36 @@ if __name__ == "__main__":
                         surname_name_results.append(condition_to_be_tested[variable][condition][result])
         if len(name_results) == 0 and len(surname_results) == 0 and len(surname_name_results) == 0:
             continue
-        
+      
         fig, ax = matplotlib.pyplot.subplots()
         fig.set_figheight(15)
         fig.set_figwidth(15)
 
 
         if len(name_results) !=0:
+            name_results_x = []
+            name_results_y = []
             for rs in range(len(name_results)):
-                ax.scatter(name_results[rs][2], name_results[rs][0], color='r', label='Names only', s=30)
-                ax.text(name_results[rs][2]+0.005, name_results[rs][0]+0.005, str(name_results[rs][1]), size=12, color='r')
+                name_results_x.append(name_results[rs][2])
+                name_results_y.append(name_results[rs][0])
+                ax.text(name_results[rs][2], name_results[rs][0]+0.2, str(name_results[rs][1]), size=12, color='r')
+            ax.plot(name_results_x, name_results_y, color='r', label='Names only', marker='o')
         if len(surname_results) !=0:
+            surname_results_x = []
+            surname_results_y = []
             for rs in range(len(surname_results)):
-                ax.scatter(surname_results[rs][2], surname_results[rs][0], color='g', label='Surnames only', s=30)
-                ax.text(surname_results[rs][2]+0.005, surname_results[rs][0]-0.017, str(surname_results[rs][1]), size=12, color='g')
+                surname_results_x.append(surname_results[rs][2])
+                surname_results_y.append(surname_results[rs][0])
+                ax.text(surname_results[rs][2], surname_results[rs][0]+0.25, str(surname_results[rs][1]), size=12, color='g')
+            ax.plot(surname_results_x, surname_results_y, color='g', label='Surnames only', marker='o')
         if len(surname_name_results) !=0:
+            surname_name_results_x = []
+            surname_name_results_y = []
             for rs in range(len(surname_name_results)):
-                ax.scatter(surname_name_results[rs][2], surname_name_results[rs][0], color='b', label='Names and Surnames', s=30)
-                ax.text(surname_name_results[rs][2]-0.195, surname_name_results[rs][0]-0.017, str(surname_name_results[rs][1]), size=12, color='b')
+                surname_name_results_x.append(surname_name_results[rs][2])
+                surname_name_results_y.append(surname_name_results[rs][0])
+                ax.text(surname_name_results[rs][2], surname_name_results[rs][0]+0.35, str(surname_name_results[rs][1]), size=12, color='b')
+            ax.plot(surname_name_results_x, surname_name_results_y, color='b', label='Names and Surnames', marker='o')
         
         handles, labels = matplotlib.pyplot.gca().get_legend_handles_labels()
         by_label = dict(zip(labels, handles))

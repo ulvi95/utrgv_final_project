@@ -2525,3 +2525,6 @@ Accuracy of Multi-Layer Perceptron with three layers for surname_and_name with t
 Accuracy of Multi-Layer Perceptron with three layers for surname_and_name with training data fraction 27% in surnames_labeled_all.csv is: 0.442
 Accuracy of Multi-Layer Perceptron with three layers for surname_and_name with training data fraction 28% in surnames_labeled_all.csv is: 0.444
 Accuracy of Multi-Layer Perceptron with three layers for surname_and_name with training data fraction 29% in surnames_labeled_all.csv is: 0.441
+Accuracy of Multi-Layer Perceptron with three layers for surname_and_name with training data fraction 30% in surnames_labeled_all.csv is: 0.446
+Accuracy of Multi-Layer Perceptron with three layers for surname_and_name with training data fraction 31% in surnames_labeled_all.csv is: 0.435
+Accuracy of Multi-Layer Perceptron with three layers for surname_and_name with training data fraction 32% in surnames_labeled_all.csv is: 0.436

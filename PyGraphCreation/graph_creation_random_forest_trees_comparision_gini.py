@@ -253,7 +253,7 @@ if __name__ == "__main__":
         if len(surname_results) !=0:
             for rs in range(len(surname_results)):
                 ax.scatter(surname_results[rs][2], surname_results[rs][0], color='g', label='Surnames only', s=30)
-                ax.text(surname_results[rs][2]+0.005, surname_results[rs][0]+0.005, str(surname_results[rs][1]), size=12)
+                ax.text(surname_results[rs][2]-0.005, surname_results[rs][0]-0.015, str(surname_results[rs][1]), size=12)
         if len(surname_name_results) !=0:
             for rs in range(len(surname_name_results)):
                 ax.scatter(surname_name_results[rs][2], surname_name_results[rs][0], color='b', label='Names and Surnames', s=30)
@@ -265,49 +265,12 @@ if __name__ == "__main__":
 
         ax.set_xticks([0, 10, 25, 50, 75, 100, 150, 200, 300, 500])
         ax.set_yticks(np.arange(0, 1.1, 0.1))
-        ax.set_xlabel("Number of Trees", fontsize=16)
-        ax.set_ylabel("Accuracy fraction with training data size (percentage/100)", fontsize=16)
+        ax.set_xlabel("Number of Trees (in the points, the proper result with training percent)", fontsize=16)
+        ax.set_ylabel("Maximum accuracy fraction with training data size (percentage/100)", fontsize=16)
         ax.set_yticklabels(("0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"), fontsize=16)
         ax.set_xticklabels(("0", "10", "25", "50", "75", "100", "150", "200", "300", "500"), fontsize=16)
 
         text = get_variable_name(condition_to_be_tested[variable], locals())
-        ax.set_title(text[0], fontsize=26)
-        image_with_plotters = folder_with_results + text[0] + "_n_of_trees_compare.png"
+        ax.set_title("Random_Forest_n_of_trees_compare_"+text[0], fontsize=26)
+        image_with_plotters = folder_with_results + "Random_Forest_n_of_trees_compare_" + text[0] + "_n_of_trees_compare.png"
         matplotlib.pyplot.savefig(image_with_plotters, bbox_inches=ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted()).expanded(1.3, 1.2))
-    #isinstance(condition_to_be_tested[0][1][2], list)
-    '''
-    for condition_to_be_tested_final_results in condition_to_be_tested[0]:
-        if len(condition_to_be_tested_final_results[2]) == 0:
-            continue
-        fig, ax = matplotlib.pyplot.subplots()
-        fig.set_figheight(15)
-        fig.set_figwidth(15)
-        name_results = [results for results in condition_to_be_tested_final_results if results[3] == 'Names only']
-        surname_results = [results for results in condition_to_be_tested_final_results if results[3] == 'Surnames only']
-        surname_name_results = [results for results in condition_to_be_tested_final_results if results[3] == 'Names and Surnames']
-
-        if len(name_results) !=0:
-            ax.scatter([res[2] for res in name_results], [res[0] for res in name_results], color='r', label='Names only', s=20)
-#            for res in name_results:
-#                ax.text(res[2]+0.01, res[0]+0.01, str(res[1]), size=16)
-        if len(surname_results) !=0:
-            ax.scatter([res[2] for res in surname_results], [res[0] for res in surname_results], color='g', label='Surnames only', s=20)
-#            for res in surname_results:
-#                ax.text(res[2]+0.01, res[0]+0.01, str(res[1]), size=16)
-        if len(surname_name_results) !=0:
-            ax.scatter([res[2] for res in surname_name_results], [res[0] for res in surname_name_results], color='b', label='Names and Surnames', s=20)
-#            for res in surname_name_results:
-#                ax.text(res[2]+0.01, res[0]+0.01, str(res[1]), size=16)
-
-        ax.set_xticks([10, 25, 50, 75, 100, 150, 200, 300, 500])
-        ax.set_yticks(np.arange(0, 1.1, 0.1))
-        ax.set_xlabel("Number of Trees", fontsize=16)
-        ax.set_ylabel("Accuracy fraction with training data size (percentage/100)", fontsize=16)
-        ax.set_yticklabels(("0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"), fontsize=16)
-        ax.set_xticklabels(("10", "25", "50", "75", "100", "150", "200", "300", "500"), fontsize=16)
-        ax.legend(fontsize=16)
-        text = get_variable_name(condition, locals())
-        ax.set_title(text[0], fontsize=16)
-        image_with_plotters = folder_with_results + text[0] + "comparision.png"
-        matplotlib.pyplot.savefig(image_with_plotters, bbox_inches=ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted()).expanded(1.3, 1.2))
-'''

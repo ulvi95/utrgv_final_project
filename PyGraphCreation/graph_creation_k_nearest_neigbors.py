@@ -186,10 +186,10 @@ if __name__ == "__main__":
                 ax.plot(range(1, 100), list1[0], color='b', label='Names and Surnames')
 
         ax.set_xticks(np.arange(0, 105, 5))
-        ax.set_yticks(np.arange(0, 1.1, 0.1))
+        ax.set_yticks(np.arange(-0.1, 1.2, 0.1))
         ax.set_xlabel("Training data size in percents", fontsize=16)
         ax.set_ylabel("Accuracy fraction (percentage/100)", fontsize=16)
-        ax.set_yticklabels(("0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"), fontsize=16)
+        ax.set_yticklabels(("", "0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0", ""), fontsize=16)
         ax.set_xticklabels(("0", "5", "10", "15", "20", "25", "30", "35",
                             "40", "45", "50", "55", "60", "65", "70", "75",
                             "80", "85", "90", "95", "100"), fontsize=16)

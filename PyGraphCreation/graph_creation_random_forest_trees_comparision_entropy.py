@@ -264,10 +264,10 @@ if __name__ == "__main__":
         ax.legend(by_label.values(), by_label.keys(), fontsize=26)
 
         ax.set_xticks(np.arange(0, 11))
-        ax.set_yticks(np.arange(0, 1.1, 0.1))
+        ax.set_yticks(np.arange(-0.1, 1.2, 0.1))
         ax.set_xlabel("Number of Trees (in the points, the proper result with training data size percent)", fontsize=16)
         ax.set_ylabel("Maximum accuracy fraction with training data size (percentage/100)", fontsize=16)
-        ax.set_yticklabels(("0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"), fontsize=16)
+        ax.set_yticklabels(("", "0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0", ""), fontsize=16)
         ax.set_xticklabels(("", "10", "25", "50", "75", "100", "150", "200", "300", "500", ""), fontsize=16)
 
         text = get_variable_name(condition_to_be_tested[variable], locals())

@@ -73,3 +73,42 @@ Maximum accuracy of Multi-Layer Perceptron with two layers for surnames_only in 
 Minimum accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
 Average accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
 2021-09-13 20:51:26.242029
+Maximum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_M_F_only_2.csv is: 0.578 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_M_F_only_2.csv is: 0.451 with training data fraction 34%
+Average accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_M_F_only_2.csv is: 0.55
+2021-09-13 21:51:41.929950
+Maximum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+2021-09-13 22:25:10.738750
+Maximum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_M_F_only.csv is: 0.58 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_M_F_only.csv is: 0.453 with training data fraction 19%
+Average accuracy of Multi-Layer Perceptron with one layer for names_only in surnames_labeled_M_F_only.csv is: 0.54
+2021-09-13 23:27:49.748814
+Maximum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 5%
+Minimum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_M_F_only.csv is: 0.492 with training data fraction 76%
+Average accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+2021-09-13 23:56:47.799254
+Maximum accuracy of Multi-Layer Perceptron with three layers for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of Multi-Layer Perceptron with three layers for surnames_only in surnames_labeled_all_2.csv is: 0.345 with training data fraction 95%
+Average accuracy of Multi-Layer Perceptron with three layers for surnames_only in surnames_labeled_all_2.csv is: 0.39
+2021-09-14 01:08:21.988986
+Maximum accuracy of Multi-Layer Perceptron with three layers for surnames_only in surnames_labeled_all.csv is: 0.44 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with three layers for surnames_only in surnames_labeled_all.csv is: 0.308 with training data fraction 26%
+Average accuracy of Multi-Layer Perceptron with three layers for surnames_only in surnames_labeled_all.csv is: 0.38
+2021-09-14 02:14:09.337137
+Maximum accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_all_2.csv is: 0.345 with training data fraction 91%
+Average accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_all_2.csv is: 0.39
+2021-09-14 03:14:36.574361
+Maximum accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_all.csv is: 0.447 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_all.csv is: 0.308 with training data fraction 26%
+Average accuracy of Multi-Layer Perceptron with two layers for surnames_only in surnames_labeled_all.csv is: 0.38
+2021-09-14 04:11:18.746321
+Maximum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_all.csv is: 0.44 with training data fraction 99%
+Minimum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_all.csv is: 0.277 with training data fraction 8%
+Average accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_all.csv is: 0.38
+2021-09-14 04:57:19.762767
+Maximum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 90%
+Average accuracy of Multi-Layer Perceptron with one layer for surnames_only in surnames_labeled_all_2.csv is: 0.39

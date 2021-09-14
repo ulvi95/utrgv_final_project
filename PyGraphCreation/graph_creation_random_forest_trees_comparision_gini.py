@@ -194,23 +194,23 @@ if __name__ == "__main__":
                 list1 = pd.read_csv(condition_to_be_tested[variable][condition][condition_check],header=None).values.tolist()
                 list1 = [np.max(list1), np.argmax(list1)+1]
                 if "_Ten_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(10)
+                    list1.append(1)
                 elif "_TwentyFive_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(25)
+                    list1.append(2)
                 elif "_Fifty_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(50)
+                    list1.append(3)
                 elif "_SeventyFive_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(75)
+                    list1.append(4)
                 elif "_OneHundred_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(100)
+                    list1.append(5)
                 elif "_OneHundredFifty_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(150)
+                    list1.append(6)
                 elif "_TwoHundred_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(200)
+                    list1.append(7)
                 elif "_ThreeHundred_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(300)
+                    list1.append(8)
                 elif "_FiveHundred_" in condition_to_be_tested[variable][condition][condition_check]:
-                    list1.append(500)
+                    list1.append(9)
                     
                 if "_names_only" in condition_to_be_tested[variable][condition][condition_check]:
                     list1.append("Names only")
@@ -253,22 +253,22 @@ if __name__ == "__main__":
         if len(surname_results) !=0:
             for rs in range(len(surname_results)):
                 ax.scatter(surname_results[rs][2], surname_results[rs][0], color='g', label='Surnames only', s=30)
-                ax.text(surname_results[rs][2]-0.005, surname_results[rs][0]-0.015, str(surname_results[rs][1]), size=12, color='g')
+                ax.text(surname_results[rs][2]+0.005, surname_results[rs][0]-0.017, str(surname_results[rs][1]), size=12, color='g')
         if len(surname_name_results) !=0:
             for rs in range(len(surname_name_results)):
                 ax.scatter(surname_name_results[rs][2], surname_name_results[rs][0], color='b', label='Names and Surnames', s=30)
-                ax.text(surname_name_results[rs][2]+0.005, surname_name_results[rs][0]+0.005, str(surname_name_results[rs][1]), size=12, color='b')
+                ax.text(surname_name_results[rs][2]-0.195, surname_name_results[rs][0]-0.017, str(surname_name_results[rs][1]), size=12, color='b')
         
         handles, labels = matplotlib.pyplot.gca().get_legend_handles_labels()
         by_label = dict(zip(labels, handles))
         ax.legend(by_label.values(), by_label.keys(), fontsize=26)
 
-        ax.set_xticks([0, 10, 25, 50, 75, 100, 150, 200, 300, 500])
+        ax.set_xticks(np.arange(0, 11))
         ax.set_yticks(np.arange(0, 1.1, 0.1))
         ax.set_xlabel("Number of Trees (in the points, the proper result with training data size percent)", fontsize=16)
         ax.set_ylabel("Maximum accuracy fraction with training data size (percentage/100)", fontsize=16)
         ax.set_yticklabels(("0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"), fontsize=16)
-        ax.set_xticklabels(("0", "10", "25", "50", "75", "100", "150", "200", "300", "500"), fontsize=16)
+        ax.set_xticklabels(("", "10", "25", "50", "75", "100", "150", "200", "300", "500", ""), fontsize=16)
 
         text = get_variable_name(condition_to_be_tested[variable], locals())
         ax.set_title("Random_Forest_n_of_trees_compare_"+text[0], fontsize=22)

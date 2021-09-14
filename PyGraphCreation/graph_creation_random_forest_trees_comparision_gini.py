@@ -265,12 +265,12 @@ if __name__ == "__main__":
 
         ax.set_xticks([0, 10, 25, 50, 75, 100, 150, 200, 300, 500])
         ax.set_yticks(np.arange(0, 1.1, 0.1))
-        ax.set_xlabel("Number of Trees (in the points, the proper result with training percent)", fontsize=16)
+        ax.set_xlabel("Number of Trees (in the points, the proper result with training data size percent)", fontsize=16)
         ax.set_ylabel("Maximum accuracy fraction with training data size (percentage/100)", fontsize=16)
         ax.set_yticklabels(("0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"), fontsize=16)
         ax.set_xticklabels(("0", "10", "25", "50", "75", "100", "150", "200", "300", "500"), fontsize=16)
 
         text = get_variable_name(condition_to_be_tested[variable], locals())
-        ax.set_title("Random_Forest_n_of_trees_compare_"+text[0], fontsize=26)
+        ax.set_title("Random_Forest_n_of_trees_compare_"+text[0], fontsize=22)
         image_with_plotters = folder_with_results + "Random_Forest_n_of_trees_compare_" + text[0] + "_n_of_trees_compare.png"
         matplotlib.pyplot.savefig(image_with_plotters, bbox_inches=ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted()).expanded(1.3, 1.2))

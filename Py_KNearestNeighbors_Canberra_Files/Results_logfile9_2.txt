@@ -1,0 +1,4 @@
+2021-09-15 15:06:41.908045
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.468 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.403 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.42

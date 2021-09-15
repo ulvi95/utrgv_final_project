@@ -157,7 +157,7 @@ if __name__ == "__main__":
 
         ax.set_xticks(np.arange(0, 5))
         ax.set_yticks(np.arange(-0.1, 1.2, 0.1))
-        ax.set_xlabel("Number of Trees (in the points, the proper result with training data size percent)", fontsize=16)
+        ax.set_xlabel("Layer's architecture (in the points, the proper result with training data size percent)", fontsize=16)
         ax.set_ylabel("Maximum accuracy fraction with training data size (percentage/100)", fontsize=16)
         ax.set_yticklabels(("", "0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0", ""), fontsize=16)
         ax.set_xticklabels(("", "(96)", "(48,48)", "(32,32,32)", ""), fontsize=16)

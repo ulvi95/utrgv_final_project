@@ -279,8 +279,7 @@ if __name__ == "__main__":
         ax.set_ylabel("Maximum accuracy fraction with training data size (percentage/100)", fontsize=16)
         ax.set_yticklabels(("", "0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0", ""), fontsize=16)
         ax.set_xticklabels(("2", "3", "4", "5", "6", "7", "8", "9", "10", ""), fontsize=16)
-
-        text = get_variable_name(condition_to_be_tested[variable], locals())+"_chebyshev"
-        ax.set_title("K_nearest_neighbors_n_compare_"+text[0], fontsize=22)
-        image_with_plotters = folder_with_results + "K_nearest_neighbors_n_compare_" + text[0] + ".png"
+        text = get_variable_name(condition_to_be_tested[variable], locals())
+        ax.set_title("K_nearest_neighbors_n_compare_"+text[0]+"_Canberra", fontsize=22)
+        image_with_plotters = folder_with_results + "K_nearest_neighbors_n_compare_" + text[0] + "_Canberra.png"
         matplotlib.pyplot.savefig(image_with_plotters, bbox_inches=ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted()).expanded(1.3, 1.2))

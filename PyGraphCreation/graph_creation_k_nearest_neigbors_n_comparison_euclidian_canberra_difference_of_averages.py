@@ -248,19 +248,19 @@ if __name__ == "__main__":
         for i in range(0, len(name_results)):
             if i!=(len(name_results)-1):
                 if name_results[i][1] == name_results[i+1][1]:
-                    name_final_results.append([(name_results[i+1][1]-name_results[i][1]), name_results[i+1][1], name_results[i+1][2]])
+                    name_final_results.append([(name_results[i][0]-name_results[i+1][0]), name_results[i+1][1], name_results[i+1][2]])
             else:
                 pass
         for i in range(0, len(surname_results)):
             if i!=(len(surname_results)-1):
                 if surname_results[i][1] == surname_results[i+1][1]:
-                    surname_final_results.append([(surname_results[i+1][1]-surname_results[i][1]), surname_results[i+1][1], surname_results[i+1][2]])
+                    surname_final_results.append([(surname_results[i][0]-surname_results[i+1][0]), surname_results[i+1][1], surname_results[i+1][2]])
             else:
                 pass
         for i in range(0, len(surname_name_results)):
             if i!=(len(surname_name_results)-1):
                 if surname_name_results[i][1] == surname_name_results[i+1][1]:
-                    surname_name_final_results.append([(surname_name_results[i+1][1]-surname_name_results[i][1]), surname_name_results[i+1][1], surname_name_results[i+1][2]])
+                    surname_name_final_results.append([(surname_name_results[i][0]-surname_name_results[i+1][0]), surname_name_results[i+1][1], surname_name_results[i+1][2]])
             else:
                 pass
 
@@ -296,7 +296,7 @@ if __name__ == "__main__":
         handles, labels = matplotlib.pyplot.gca().get_legend_handles_labels()
         by_label = dict(zip(labels, handles))
         ax.legend(by_label.values(), by_label.keys(), fontsize=26)
-
+        ax.set_yticks(np.arange(-0.01, 0.011, 0.001))
         ax.set_xticks(np.arange(1, 11))
         ax.set_xlabel("Number of N's (in the points, the proper result with training data size percent)", fontsize=16)
         ax.set_ylabel("Avg(Euclidian accuracy)-Avg(Canberra accuracy)", fontsize=16)

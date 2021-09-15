@@ -196,5 +196,5 @@ if __name__ == "__main__":
         ax.legend(fontsize=16)
         text = get_variable_name(condition, locals())
         ax.set_title(text[0]+" (Canberra distance)", fontsize=16)
-        image_with_plotters = folder_with_results + text[0] + "_Canberra.png"
+        image_with_plotters = folder_with_results + text[0] + ".png"
         matplotlib.pyplot.savefig(image_with_plotters, bbox_inches=ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted()).expanded(1.3, 1.2))

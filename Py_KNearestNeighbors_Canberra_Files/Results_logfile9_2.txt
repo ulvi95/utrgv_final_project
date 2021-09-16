@@ -2,3 +2,447 @@
 Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.468 with training data fraction 99%
 Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.403 with training data fraction 93%
 Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.42
+2021-09-15 15:13:38.353754
+2021-09-15 15:13:40.655053
+2021-09-15 15:13:42.410378
+2021-09-15 15:13:44.228298
+2021-09-15 15:13:46.240615
+2021-09-15 15:13:48.530954
+2021-09-15 15:13:50.492392
+2021-09-15 15:14:01.114002
+2021-09-15 15:14:03.227932
+2021-09-15 15:14:05.104654
+2021-09-15 15:14:13.309214
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.347 with training data fraction 4%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.311 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.33
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.535 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.476 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.506 with training data fraction 54%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.484 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.543 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.499 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.52
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.512 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.486 with training data fraction 80%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.455 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.417 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.37 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.326 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.464 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.407 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.474 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.416 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.354 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.306 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.33
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.343 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.307 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.33
+2021-09-15 15:20:10.015252
+2021-09-15 15:20:11.301290
+2021-09-15 15:20:12.236465
+2021-09-15 15:20:14.291313
+2021-09-15 15:20:14.972073
+2021-09-15 15:20:19.043893
+2021-09-15 15:20:19.887658
+2021-09-15 15:20:26.195695
+2021-09-15 15:20:26.832137
+2021-09-15 15:20:29.230990
+2021-09-15 15:20:30.480611
+2021-09-15 15:20:36.883303
+2021-09-15 15:20:37.900007
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.37 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.326 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.527 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.492 with training data fraction 86%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.527 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.334 with training data fraction 21%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.307 with training data fraction 77%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.32
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.565 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.527 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.55
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.529 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.522 with training data fraction 96%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.474 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.51 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.478 with training data fraction 90%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.514 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.454 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.496 with training data fraction 2%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.474 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.454 with training data fraction 44%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.395 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.452 with training data fraction 43%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 88%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.352 with training data fraction 84%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.31 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.33
+2021-09-15 15:23:43.152185
+2021-09-15 15:23:44.435234
+2021-09-15 15:23:45.377293
+2021-09-15 15:23:46.287012
+2021-09-15 15:23:48.116545
+2021-09-15 15:23:48.723944
+2021-09-15 15:23:49.713476
+2021-09-15 15:23:50.791396
+2021-09-15 15:24:55.733749
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.535 with training data fraction 93%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.492 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.385 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.334 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.523 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.574 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.534 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.56
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.542 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.497 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.479 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.405 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.44
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.464 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.422 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.362 with training data fraction 85%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.31 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.34
+2021-09-15 15:28:12.315234
+2021-09-15 15:28:15.106536
+2021-09-15 15:28:16.935211
+2021-09-15 15:28:17.569499
+2021-09-15 15:28:18.581112
+2021-09-15 15:28:19.167563
+2021-09-15 15:28:19.953516
+2021-09-15 15:28:20.461813
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.525 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.483 with training data fraction 86%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.387 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.347 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.523 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.496 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.546 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.495 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57 with training data fraction 75%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.538 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.56
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.466 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.408 with training data fraction 13%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.483 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.421 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.359 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.313 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.34
+2021-09-15 15:35:44.026980
+2021-09-15 15:35:47.186731
+2021-09-15 15:35:48.065079
+2021-09-15 15:35:48.868832
+2021-09-15 15:35:50.556452
+2021-09-15 15:35:50.969098
+2021-09-15 15:35:52.160056
+2021-09-15 15:35:52.669287
+2021-09-15 15:35:57.107432
+2021-09-15 15:35:58.121249
+2021-09-15 15:36:00.511161
+2021-09-15 15:36:01.032508
+2021-09-15 15:36:05.201353
+2021-09-15 15:36:05.664684
+2021-09-15 15:36:07.751376
+2021-09-15 15:36:08.785577
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.337 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.286 with training data fraction 99%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.32
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.525 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.482 with training data fraction 79%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.388 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.349 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.37
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.521 with training data fraction 94%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.476 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.505 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.485 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.512 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.485 with training data fraction 80%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.536 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.487 with training data fraction 4%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.466 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.404 with training data fraction 13%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.465 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.415 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.508 with training data fraction 54%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.489 with training data fraction 87%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.534 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.487 with training data fraction 92%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.556 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.508 with training data fraction 6%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.53
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.457 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.419 with training data fraction 35%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.501 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.41 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.46
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.357 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.307 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.34
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.363 with training data fraction 85%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.312 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.34
+2021-09-15 15:40:04.253282
+2021-09-15 15:40:04.847915
+2021-09-15 15:40:05.871072
+2021-09-15 15:40:06.504950
+2021-09-15 15:40:07.283837
+2021-09-15 15:40:07.840670
+2021-09-15 15:40:08.971453
+2021-09-15 15:40:09.540548
+2021-09-15 15:40:13.099964
+2021-09-15 15:40:14.233108
+2021-09-15 15:40:20.086995
+2021-09-15 15:40:20.599324
+2021-09-15 15:40:22.086517
+2021-09-15 15:40:22.615672
+2021-09-15 15:40:33.444445
+2021-09-15 15:40:34.980224
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.527 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.481 with training data fraction 91%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.37 with training data fraction 94%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.33 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.315 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.288 with training data fraction 92%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_all_2.csv is: 0.3
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.533 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.494 with training data fraction 92%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.552 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.493 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.511 with training data fraction 98%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.469 with training data fraction 86%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only.csv is: 0.48
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.552 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.508 with training data fraction 98%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.54
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.492 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.466 with training data fraction 96%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only_2.csv is: 0.48
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.465 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.413 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.432 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.398 with training data fraction 94%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.486 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.434 with training data fraction 3%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.46
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.492 with training data fraction 2%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.462 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_M_F_only.csv is: 0.48
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.421 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.402 with training data fraction 97%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_all_2.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.42 with training data fraction 96%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.391 with training data fraction 86%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.4
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.363 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.308 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.33
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.321 with training data fraction 99%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.294 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surnames_only in surnames_labeled_all.csv is: 0.31
+2021-09-15 15:43:56.547847
+2021-09-15 15:43:58.421917
+2021-09-15 15:44:01.116876
+2021-09-15 15:44:04.224556
+2021-09-15 15:48:24.164007
+2021-09-15 15:48:25.699547
+2021-09-15 15:48:27.130137
+2021-09-15 15:48:29.684784
+2021-09-15 15:51:23.274832
+2021-09-15 15:51:24.470664
+2021-09-15 15:51:26.310097
+2021-09-15 15:51:29.417711
+2021-09-15 16:35:32.937242
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.479 with training data fraction 95%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.405 with training data fraction 93%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for names_only in surnames_labeled_all.csv is: 0.44
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.434 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.396 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.443 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.406 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.44 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.404 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.429 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.394 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.424 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.388 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.436 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.396 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.517 with training data fraction 61%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.484 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.521 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.488 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.512 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.48 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.526 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.489 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.52 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.487 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 8 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.522 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.489 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 5 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.514 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.486 with training data fraction 1%
+Average accuracy of K Nearest Neighbours with 4 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+2021-09-15 18:54:35.148080
+2021-09-15 18:54:35.148080
+2021-09-15 18:54:35.163038
+2021-09-15 18:54:35.447169
+2021-09-15 18:54:43.424635
+2021-09-15 18:54:44.452701
+2021-09-15 18:54:46.182556
+2021-09-15 18:54:46.878732
+2021-09-15 18:54:56.648976
+2021-09-15 18:54:58.724056
+2021-09-15 18:55:00.511447
+2021-09-15 18:55:01.645619
+2021-09-15 18:55:07.776866
+2021-09-15 18:55:08.323028
+2021-09-15 18:55:09.121774
+2021-09-15 18:55:09.949300
+2021-09-15 19:20:35.692637
+2021-09-15 19:20:38.078519
+2021-09-15 19:20:45.466446
+2021-09-15 19:20:48.661068
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.437 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.395 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.426 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.387 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.438 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.399 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.425 with training data fraction 10%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.389 with training data fraction 22%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.445 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.408 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.507 with training data fraction 61%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.476 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.49
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.435 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.398 with training data fraction 34%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.521 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.487 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.438 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.402 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.42
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.431 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.392 with training data fraction 66%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.518 with training data fraction 61%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.485 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+2021-09-15 22:05:47.203384
+2021-09-15 22:05:54.816687
+2021-09-15 22:06:09.188844
+2021-09-15 22:06:33.156801
+2021-09-15 22:06:37.571388
+2021-09-15 22:06:53.471354
+2021-09-15 22:06:56.218121
+2021-09-15 22:08:15.880558
+2021-09-15 22:08:41.254865
+2021-09-15 22:09:00.516175
+2021-09-15 22:09:37.517835
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.515 with training data fraction 61%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.483 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.508 with training data fraction 21%
+Minimum accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.484 with training data fraction 11%
+Average accuracy of K Nearest Neighbours with 2 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.519 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.489 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 3 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.522 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.488 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 10 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.517 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.487 with training data fraction 2%
+Average accuracy of K Nearest Neighbours with 6 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.431 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.397 with training data fraction 22%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.44 with training data fraction 1%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.406 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.435 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.398 with training data fraction 34%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_all.csv is: 0.41
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.445 with training data fraction 97%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.409 with training data fraction 84%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_all_2.csv is: 0.43
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.521 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.489 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.522 with training data fraction 51%
+Minimum accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.49 with training data fraction 17%
+Average accuracy of K Nearest Neighbours with 9 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.523 with training data fraction 76%
+Minimum accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.489 with training data fraction 8%
+Average accuracy of K Nearest Neighbours with 7 neighbors and Canberra distance for surname_and_name in surnames_labeled_M_F_only.csv is: 0.5

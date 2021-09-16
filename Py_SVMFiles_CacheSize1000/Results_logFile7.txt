@@ -1,0 +1,367 @@
+2021-08-30 17:28:42.491223
+Maximum accuracy of SVM Linear for names_only in surnames_labeled_all.csv is: 0.533 with training data fraction 98%
+Minimum accuracy of SVM Linear for names_only in surnames_labeled_all.csv is: 0.395 with training data fraction 1%
+Average accuracy of SVM Linear for names_only in surnames_labeled_all.csv is: 0.49
+2021-08-30 17:29:25.363301
+Maximum accuracy of SVM Linear for surnames_only in surnames_labeled_all.csv is: 0.445 with training data fraction 99%
+Minimum accuracy of SVM Linear for surnames_only in surnames_labeled_all.csv is: 0.313 with training data fraction 16%
+Average accuracy of SVM Linear for surnames_only in surnames_labeled_all.csv is: 0.37
+2021-08-30 17:29:52.336607
+2021-08-30 17:29:58.098075
+2021-08-30 17:30:01.031196
+2021-08-30 17:30:02.477356
+2021-08-30 17:30:04.186569
+2021-08-30 17:30:06.943756
+Maximum accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.576 with training data fraction 5%
+Minimum accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.529 with training data fraction 98%
+Average accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 5%
+Minimum accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of SVM Linear for names_only in surnames_labeled_M_F_only_2.csv is: 0.593 with training data fraction 99%
+Minimum accuracy of SVM Linear for names_only in surnames_labeled_M_F_only_2.csv is: 0.48 with training data fraction 1%
+Average accuracy of SVM Linear for names_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Linear for names_only in surnames_labeled_M_F_only.csv is: 0.583 with training data fraction 99%
+Minimum accuracy of SVM Linear for names_only in surnames_labeled_M_F_only.csv is: 0.468 with training data fraction 1%
+Average accuracy of SVM Linear for names_only in surnames_labeled_M_F_only.csv is: 0.55
+Maximum accuracy of SVM Linear for surnames_only in surnames_labeled_all_2.csv is: 0.383 with training data fraction 98%
+Minimum accuracy of SVM Linear for surnames_only in surnames_labeled_all_2.csv is: 0.348 with training data fraction 90%
+Average accuracy of SVM Linear for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of SVM Linear for names_only in surnames_labeled_all_2.csv is: 0.523 with training data fraction 98%
+Minimum accuracy of SVM Linear for names_only in surnames_labeled_all_2.csv is: 0.437 with training data fraction 1%
+Average accuracy of SVM Linear for names_only in surnames_labeled_all_2.csv is: 0.5
+2021-08-30 17:30:37.900203
+2021-08-30 17:30:39.535063
+2021-08-30 17:30:42.463673
+2021-08-30 17:30:43.754610
+2021-08-30 18:45:48.296115
+Maximum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all.csv is: 0.499 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all.csv is: 0.385 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all.csv is: 0.46
+Maximum accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only.csv is: 0.52 with training data fraction 92%
+Minimum accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only.csv is: 0.512 with training data fraction 98%
+Average accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only.csv is: 0.52
+Maximum accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.547 with training data fraction 92%
+Minimum accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.534 with training data fraction 2%
+Average accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.54
+Maximum accuracy of SVM Linear for surname_and_name in surnames_labeled_all_2.csv is: 0.487 with training data fraction 98%
+Minimum accuracy of SVM Linear for surname_and_name in surnames_labeled_all_2.csv is: 0.477 with training data fraction 99%
+Average accuracy of SVM Linear for surname_and_name in surnames_labeled_all_2.csv is: 0.48
+Maximum accuracy of SVM Linear for surname_and_name in surnames_labeled_all.csv is: 0.439 with training data fraction 6%
+Minimum accuracy of SVM Linear for surname_and_name in surnames_labeled_all.csv is: 0.43 with training data fraction 85%
+Average accuracy of SVM Linear for surname_and_name in surnames_labeled_all.csv is: 0.43
+2021-08-31 15:29:57.422148
+2021-08-31 15:30:00.009161
+2021-08-31 15:30:00.780628
+2021-08-31 15:30:04.749588
+2021-08-31 15:30:06.351587
+2021-08-31 15:30:08.064588
+2021-08-31 15:30:09.590586
+2021-08-31 15:30:15.797584
+2021-08-31 15:30:16.941147
+2021-08-31 15:30:18.124146
+2021-08-31 15:30:19.545145
+Maximum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.576 with training data fraction 5%
+Minimum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.529 with training data fraction 98%
+Average accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
+Minimum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 1%
+Minimum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all_2.csv is: 0.321 with training data fraction 99%
+Average accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all.csv is: 0.463 with training data fraction 91%
+Minimum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all.csv is: 0.304 with training data fraction 38%
+Average accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all.csv is: 0.38
+Maximum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only.csv is: 0.58 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only.csv is: 0.457 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only.csv is: 0.55
+Maximum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only_2.csv is: 0.593 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only_2.csv is: 0.437 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.523 with training data fraction 98%
+Minimum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.417 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.5
+2021-08-31 17:23:05.364420
+2021-08-31 17:23:07.644959
+2021-08-31 17:23:10.527875
+2021-08-31 17:23:11.279876
+2021-08-31 17:23:12.340877
+2021-08-31 17:23:13.217968
+2021-08-31 17:23:14.099964
+2021-08-31 17:23:15.200278
+Maximum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only.csv is: 0.549 with training data fraction 99%
+Minimum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only.csv is: 0.47 with training data fraction 98%
+Average accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.545 with training data fraction 99%
+Minimum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.494 with training data fraction 74%
+Average accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.51
+Maximum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all_2.csv is: 0.403 with training data fraction 99%
+Minimum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all_2.csv is: 0.264 with training data fraction 89%
+Average accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all_2.csv is: 0.33
+Maximum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all.csv is: 0.403 with training data fraction 99%
+Minimum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all.csv is: 0.273 with training data fraction 88%
+Average accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all.csv is: 0.33
+Maximum accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only.csv is: 0.586 with training data fraction 99%
+Minimum accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only.csv is: 0.423 with training data fraction 98%
+Average accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only.csv is: 0.5
+Maximum accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only_2.csv is: 0.581 with training data fraction 97%
+Minimum accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only_2.csv is: 0.403 with training data fraction 99%
+Average accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of SVM Sigmoid for names_only in surnames_labeled_all_2.csv is: 0.523 with training data fraction 99%
+Minimum accuracy of SVM Sigmoid for names_only in surnames_labeled_all_2.csv is: 0.164 with training data fraction 95%
+Average accuracy of SVM Sigmoid for names_only in surnames_labeled_all_2.csv is: 0.41
+Maximum accuracy of SVM Sigmoid for names_only in surnames_labeled_all.csv is: 0.493 with training data fraction 98%
+Minimum accuracy of SVM Sigmoid for names_only in surnames_labeled_all.csv is: 0.153 with training data fraction 97%
+Average accuracy of SVM Sigmoid for names_only in surnames_labeled_all.csv is: 0.39
+2021-08-31 19:09:42.409563
+2021-09-02 14:34:50.804502
+2021-09-02 14:34:50.806572
+2021-09-02 14:34:50.806572
+2021-09-02 14:34:50.806572
+2021-09-02 14:34:51.433478
+2021-09-02 14:34:52.474521
+2021-09-02 14:34:53.086521
+Maximum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
+Minimum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.576 with training data fraction 5%
+Minimum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.529 with training data fraction 98%
+Average accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all.csv is: 0.463 with training data fraction 91%
+Minimum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all.csv is: 0.307 with training data fraction 27%
+Average accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all.csv is: 0.38
+Maximum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 1%
+Minimum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all_2.csv is: 0.324 with training data fraction 90%
+Average accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only.csv is: 0.58 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only.csv is: 0.457 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only.csv is: 0.55
+Maximum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only_2.csv is: 0.593 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only_2.csv is: 0.473 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all_2.csv is: 0.523 with training data fraction 98%
+Minimum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all_2.csv is: 0.42 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all_2.csv is: 0.5
+Maximum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all.csv is: 0.499 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all.csv is: 0.385 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all.csv is: 0.46
+2021-09-02 16:19:03.377850
+2021-09-02 16:19:06.821921
+2021-09-02 16:19:09.619917
+2021-09-02 16:19:12.074880
+2021-09-02 16:19:14.336880
+2021-09-02 16:19:17.787577
+2021-09-02 16:19:19.863062
+2021-09-02 16:19:21.681143
+Maximum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
+Minimum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.576 with training data fraction 5%
+Minimum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.529 with training data fraction 98%
+Average accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all.csv is: 0.463 with training data fraction 91%
+Minimum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all.csv is: 0.303 with training data fraction 41%
+Average accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all.csv is: 0.38
+Maximum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 1%
+Minimum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all_2.csv is: 0.321 with training data fraction 99%
+Average accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all_2.csv is: 0.35
+Maximum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only.csv is: 0.58 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only.csv is: 0.456 with training data fraction 2%
+Average accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only.csv is: 0.55
+Maximum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only_2.csv is: 0.593 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only_2.csv is: 0.457 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all_2.csv is: 0.523 with training data fraction 98%
+Minimum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all_2.csv is: 0.397 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all_2.csv is: 0.5
+Maximum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all.csv is: 0.499 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all.csv is: 0.385 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all.csv is: 0.46
+2021-09-02 22:02:49.900832
+2021-09-02 22:13:37.171975
+2021-09-02 22:45:52.729569
+2021-09-02 22:46:27.797696
+2021-09-02 22:47:36.863779
+2021-09-02 22:47:44.373648
+2021-09-02 22:47:56.563805
+2021-09-02 22:48:33.061684
+2021-09-02 22:49:36.684689
+2021-09-02 22:49:43.717675
+2021-09-02 23:34:13.736884
+2021-09-02 23:34:15.729251
+2021-09-02 23:34:16.819158
+2021-09-02 23:34:17.998806
+2021-09-02 23:45:44.233300
+2021-09-02 23:45:46.221297
+2021-09-02 23:45:48.674293
+2021-09-02 23:45:50.626031
+2021-09-02 23:45:52.691105
+2021-09-02 23:45:56.455223
+2021-09-02 23:46:06.891871
+2021-09-02 23:46:08.005482
+2021-09-02 23:46:09.017671
+2021-09-02 23:46:10.221760
+2021-09-02 23:46:11.251196
+2021-09-02 23:46:11.959665
+2021-09-02 23:46:13.133440
+2021-09-02 23:46:13.686671
+2021-09-02 23:46:14.646360
+Maximum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only.csv is: 0.538 with training data fraction 3%
+Minimum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
+Average accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
+Maximum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.576 with training data fraction 5%
+Minimum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.529 with training data fraction 98%
+Average accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.57
+2021-09-03 01:30:21.854708
+2021-09-03 01:30:23.351651
+2021-09-03 01:30:25.353747
+2021-09-03 01:30:27.039753
+2021-09-03 01:30:31.055817
+2021-09-03 01:30:32.725815
+2021-09-03 01:30:34.376731
+2021-09-03 01:30:35.959985
+2021-09-03 01:30:39.139721
+2021-09-03 01:30:40.694720
+2021-09-03 01:30:44.589466
+2021-09-03 01:30:45.930554
+Maximum accuracy of SVM RBF for surnames_only in surnames_labeled_all_2.csv is: 0.383 with training data fraction 98%
+Minimum accuracy of SVM RBF for surnames_only in surnames_labeled_all_2.csv is: 0.343 with training data fraction 55%
+Average accuracy of SVM RBF for surnames_only in surnames_labeled_all_2.csv is: 0.36
+Maximum accuracy of SVM RBF for surnames_only in surnames_labeled_all.csv is: 0.438 with training data fraction 99%
+Minimum accuracy of SVM RBF for surnames_only in surnames_labeled_all.csv is: 0.311 with training data fraction 19%
+Average accuracy of SVM RBF for surnames_only in surnames_labeled_all.csv is: 0.38
+Maximum accuracy of SVM RBF for names_only in surnames_labeled_M_F_only_2.csv is: 0.593 with training data fraction 99%
+Minimum accuracy of SVM RBF for names_only in surnames_labeled_M_F_only_2.csv is: 0.467 with training data fraction 1%
+Average accuracy of SVM RBF for names_only in surnames_labeled_M_F_only_2.csv is: 0.57
+Maximum accuracy of SVM RBF for names_only in surnames_labeled_M_F_only.csv is: 0.58 with training data fraction 99%
+Minimum accuracy of SVM RBF for names_only in surnames_labeled_M_F_only.csv is: 0.476 with training data fraction 1%
+Average accuracy of SVM RBF for names_only in surnames_labeled_M_F_only.csv is: 0.55
+Maximum accuracy of SVM RBF for names_only in surnames_labeled_all_2.csv is: 0.523 with training data fraction 98%
+Minimum accuracy of SVM RBF for names_only in surnames_labeled_all_2.csv is: 0.399 with training data fraction 1%
+Average accuracy of SVM RBF for names_only in surnames_labeled_all_2.csv is: 0.5
+Maximum accuracy of SVM RBF for names_only in surnames_labeled_all.csv is: 0.547 with training data fraction 99%
+Minimum accuracy of SVM RBF for names_only in surnames_labeled_all.csv is: 0.385 with training data fraction 1%
+Average accuracy of SVM RBF for names_only in surnames_labeled_all.csv is: 0.51
+2021-09-08 22:09:48.915826
+Maximum accuracy of SVM Linear for names_only in surnames_labeled_all_2.csv is: 0.525 with training data fraction 98%
+Minimum accuracy of SVM Linear for names_only in surnames_labeled_all_2.csv is: 0.395 with training data fraction 1%
+Average accuracy of SVM Linear for names_only in surnames_labeled_all_2.csv is: 0.48
+2021-09-08 22:10:48.495723
+2021-09-08 22:10:55.941002
+2021-09-08 22:10:59.538181
+Maximum accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of SVM Linear for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of SVM Linear for names_only in surnames_labeled_M_F_only_2.csv is: 0.579 with training data fraction 99%
+Minimum accuracy of SVM Linear for names_only in surnames_labeled_M_F_only_2.csv is: 0.483 with training data fraction 1%
+Average accuracy of SVM Linear for names_only in surnames_labeled_M_F_only_2.csv is: 0.55
+Maximum accuracy of SVM Linear for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of SVM Linear for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 90%
+Average accuracy of SVM Linear for surnames_only in surnames_labeled_all_2.csv is: 0.39
+2021-09-08 22:11:30.180666
+2021-09-08 22:11:33.110664
+2021-09-08 22:13:55.195138
+2021-09-08 22:22:57.142501
+2021-09-08 22:23:02.186565
+Maximum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 90%
+Average accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_all_2.csv is: 0.39
+2021-09-08 23:43:43.400651
+2021-09-08 23:44:00.579585
+2021-09-08 23:44:08.779540
+2021-09-08 23:44:56.720404
+2021-09-08 23:45:00.618612
+Maximum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of SVM Poly_Degree_Two for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.509 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.393 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.47
+Maximum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 90%
+Average accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_all_2.csv is: 0.39
+Maximum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only_2.csv is: 0.579 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only_2.csv is: 0.455 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_M_F_only_2.csv is: 0.55
+Maximum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.509 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.393 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Two for names_only in surnames_labeled_all_2.csv is: 0.47
+2021-09-09 10:33:54.936553
+2021-09-09 10:33:56.123806
+2021-09-09 10:33:58.386164
+2021-09-09 10:33:59.137168
+2021-09-09 10:34:50.643382
+2021-09-09 10:34:51.237068
+2021-09-09 10:35:04.416716
+Maximum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of SVM Poly_Degree_Three for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 90%
+Average accuracy of SVM Poly_Degree_Four for surnames_only in surnames_labeled_all_2.csv is: 0.39
+Maximum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only_2.csv is: 0.579 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only_2.csv is: 0.455 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_M_F_only_2.csv is: 0.55
+Maximum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only_2.csv is: 0.579 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only_2.csv is: 0.467 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_M_F_only_2.csv is: 0.55
+Maximum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all_2.csv is: 0.509 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all_2.csv is: 0.393 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Four for names_only in surnames_labeled_all_2.csv is: 0.47
+Maximum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all_2.csv is: 0.509 with training data fraction 99%
+Minimum accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all_2.csv is: 0.393 with training data fraction 1%
+Average accuracy of SVM Poly_Degree_Three for names_only in surnames_labeled_all_2.csv is: 0.47
+2021-09-09 12:40:45.848531
+2021-09-09 12:40:46.597533
+2021-09-09 12:41:10.160357
+2021-09-09 12:41:11.776703
+2021-09-09 12:41:32.695521
+2021-09-09 12:41:36.064364
+2021-09-09 12:41:39.272064
+2021-09-09 12:41:41.941280
+2021-09-09 13:02:25.806062
+2021-09-09 13:02:28.974050
+Maximum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.543 with training data fraction 73%
+Minimum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.489 with training data fraction 98%
+Average accuracy of SVM Sigmoid for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.52
+Maximum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only_2.csv is: 0.585 with training data fraction 99%
+Minimum accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only_2.csv is: 0.425 with training data fraction 98%
+Average accuracy of SVM Sigmoid for names_only in surnames_labeled_M_F_only_2.csv is: 0.5
+Maximum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all_2.csv is: 0.392 with training data fraction 41%
+Minimum accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all_2.csv is: 0.238 with training data fraction 99%
+Average accuracy of SVM Sigmoid for surnames_only in surnames_labeled_all_2.csv is: 0.33
+Maximum accuracy of SVM Sigmoid for names_only in surnames_labeled_all_2.csv is: 0.477 with training data fraction 78%
+Minimum accuracy of SVM Sigmoid for names_only in surnames_labeled_all_2.csv is: 0.125 with training data fraction 98%
+Average accuracy of SVM Sigmoid for names_only in surnames_labeled_all_2.csv is: 0.39
+2021-09-09 14:50:40.415808
+2021-09-09 14:50:59.942839
+2021-09-09 14:55:58.175810
+2021-09-09 14:56:27.012599
+Maximum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.625 with training data fraction 86%
+Minimum accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.598 with training data fraction 97%
+Average accuracy of SVM RBF for surnames_only in surnames_labeled_M_F_only_2.csv is: 0.62
+Maximum accuracy of SVM RBF for names_only in surnames_labeled_M_F_only_2.csv is: 0.579 with training data fraction 99%
+Minimum accuracy of SVM RBF for names_only in surnames_labeled_M_F_only_2.csv is: 0.476 with training data fraction 1%
+Average accuracy of SVM RBF for names_only in surnames_labeled_M_F_only_2.csv is: 0.55
+2021-09-09 16:05:53.140115
+Maximum accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.531 with training data fraction 55%
+Minimum accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.515 with training data fraction 2%
+Average accuracy of SVM Linear for surname_and_name in surnames_labeled_M_F_only_2.csv is: 0.53
+Maximum accuracy of SVM RBF for surnames_only in surnames_labeled_all_2.csv is: 0.408 with training data fraction 1%
+Minimum accuracy of SVM RBF for surnames_only in surnames_labeled_all_2.csv is: 0.376 with training data fraction 65%
+Average accuracy of SVM RBF for surnames_only in surnames_labeled_all_2.csv is: 0.39
+Maximum accuracy of SVM RBF for names_only in surnames_labeled_all_2.csv is: 0.509 with training data fraction 99%
+Minimum accuracy of SVM RBF for names_only in surnames_labeled_all_2.csv is: 0.393 with training data fraction 1%
+Average accuracy of SVM RBF for names_only in surnames_labeled_all_2.csv is: 0.47
+2021-09-10 11:42:34.286828
+2021-09-10 14:16:32.039371
+Maximum accuracy of SVM Linear for surname_and_name in surnames_labeled_all_2.csv is: 0.458 with training data fraction 98%
+Minimum accuracy of SVM Linear for surname_and_name in surnames_labeled_all_2.csv is: 0.449 with training data fraction 85%
+Average accuracy of SVM Linear for surname_and_name in surnames_labeled_all_2.csv is: 0.45

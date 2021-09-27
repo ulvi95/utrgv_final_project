@@ -3327,48 +3327,4 @@ Maximum accuracy of Random Forest with 25 trees, no duplicates, and splitting cr
 Minimum accuracy of Random Forest with 25 trees, no duplicates, and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.501 with training data fraction 95%
 Average accuracy of Random Forest with 25 trees, no duplicates, and splitting criterion 'gini' for surnames_only in surnames_labeled_M_F_only.csv is: 0.53
 2021-09-16 00:19:22.286566
-"C:\My Files\Upper level folders\Test\Results\surnames_labeled_all.csv" exists.
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 1% in surnames_labeled_all.csv is: 0.0
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 2% in surnames_labeled_all.csv is: 0.454
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 3% in surnames_labeled_all.csv is: 0.453
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 4% in surnames_labeled_all.csv is: 0.452
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 5% in surnames_labeled_all.csv is: 0.451
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 6% in surnames_labeled_all.csv is: 0.451
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 7% in surnames_labeled_all.csv is: 0.45
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 8% in surnames_labeled_all.csv is: 0.45
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 9% in surnames_labeled_all.csv is: 0.45
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 10% in surnames_labeled_all.csv is: 0.449
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 11% in surnames_labeled_all.csv is: 0.449
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 12% in surnames_labeled_all.csv is: 0.449
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 13% in surnames_labeled_all.csv is: 0.448
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 14% in surnames_labeled_all.csv is: 0.448
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 15% in surnames_labeled_all.csv is: 0.447
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 16% in surnames_labeled_all.csv is: 0.447
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 17% in surnames_labeled_all.csv is: 0.446
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 18% in surnames_labeled_all.csv is: 0.446
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 19% in surnames_labeled_all.csv is: 0.446
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 20% in surnames_labeled_all.csv is: 0.446
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 21% in surnames_labeled_all.csv is: 0.445
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 22% in surnames_labeled_all.csv is: 0.446
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 23% in surnames_labeled_all.csv is: 0.446
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 24% in surnames_labeled_all.csv is: 0.445
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 25% in surnames_labeled_all.csv is: 0.445
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 26% in surnames_labeled_all.csv is: 0.444
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 27% in surnames_labeled_all.csv is: 0.443
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 28% in surnames_labeled_all.csv is: 0.443
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 29% in surnames_labeled_all.csv is: 0.442
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 30% in surnames_labeled_all.csv is: 0.442
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 31% in surnames_labeled_all.csv is: 0.442
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 32% in surnames_labeled_all.csv is: 0.442
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 33% in surnames_labeled_all.csv is: 0.442
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 34% in surnames_labeled_all.csv is: 0.442
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 35% in surnames_labeled_all.csv is: 0.441
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 36% in surnames_labeled_all.csv is: 0.441
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 37% in surnames_labeled_all.csv is: 0.441
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 38% in surnames_labeled_all.csv is: 0.44
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 39% in surnames_labeled_all.csv is: 0.44
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 40% in surnames_labeled_all.csv is: 0.44
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 41% in surnames_labeled_all.csv is: 0.44
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 42% in surnames_labeled_all.csv is: 0.44
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 43% in surnames_labeled_all.csv is: 0.44
-Accuracy of Random Forest with 50 trees, no duplicates, and splitting criterion 'entropy' for names_only with training data fraction 44% in surnames_labeled_all.csv is: 0.439
+
